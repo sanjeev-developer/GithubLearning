@@ -3,3 +3,7 @@ func division()
 c=a/b;
 }
 
+func per()
+{
+c=a%b;
+}
