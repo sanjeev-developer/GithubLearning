@@ -1,4 +1,14 @@
-func desk ()
+func sub()
+{
+c=a-b;
+}
+
+func add()
 {
 c=a+b;
+}
+
+func mul()
+{
+c=a*b;
 }
